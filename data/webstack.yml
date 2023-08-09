@@ -1,4 +1,11 @@
 ---
+- taxonomy: Blog平台汇总
+  icon: far fa-star
+  links:
+    - title: RSSBlog
+      logo: "https://api.iowen.cn/favicon/rssblog.cn.png/"
+      url: https://rssblog.cn/
+      description: 独立博客聚合, 提供最新的博客内容服务
 - taxonomy: 开源自建
   icon: far fa-star
   links:
