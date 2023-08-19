@@ -17,12 +17,20 @@
       url: https://juejin.cn/android
       description: 独立博客聚合, 提供最新的博客内容服务
     
-  
-
     - title: 扔物线
       logo: "https://api.iowen.cn/favicon/rengwuxian.com.png/"
       url: https://rengwuxian.com/
-      description: 独立博客聚合, 提供最新的博客内容服务
+      description: Android大佬  
+
+    - title: 刘望舒
+      logo: "https://api.iowen.cn/favicon/liuwangshu.cn.png/"
+      url: http://liuwangshu.cn/
+      description: Android大佬
+
+    - title: dhl
+      logo: "https://api.iowen.cn/favicon/hi-dhl.com.png/"
+      url: https://www.hi-dhl.com/
+      description: Android大佬
 
     - title: gradle下载
       logo: "https://api.iowen.cn/favicon/services.gradle.org.png/"
@@ -34,10 +42,7 @@
       url: https://mvnrepository.com/
       description: 下载放在maven库上的jar包到本地使用
 
-    - title: dhl
-      logo: "https://api.iowen.cn/favicon/hi-dhl.com.png/"
-      url: https://www.hi-dhl.com/
-      description: 下载放在maven库上的jar包到本地使用
+
       
       
 - taxonomy: Blog平台汇总
