@@ -12,6 +12,18 @@
       url: https://www.wanandroid.com/
       description: 独立博客聚合, 提供最新的博客内容服务
 
+    - title: 掘金
+      logo: "https://api.iowen.cn/favicon/juejin.cn.png/"
+      url: https://juejin.cn/android
+      description: 独立博客聚合, 提供最新的博客内容服务
+    
+  
+
+    - title: 扔物线
+      logo: "https://api.iowen.cn/favicon/rengwuxian.com.png/"
+      url: https://rengwuxian.com/
+      description: 独立博客聚合, 提供最新的博客内容服务
+
     - title: gradle下载
       logo: "https://api.iowen.cn/favicon/services.gradle.org.png/"
       url: https://services.gradle.org/distributions/
@@ -21,6 +33,12 @@
       logo: "https://api.iowen.cn/favicon/mvnrepository.com.png/"
       url: https://mvnrepository.com/
       description: 下载放在maven库上的jar包到本地使用
+
+    - title: dhl
+      logo: "https://api.iowen.cn/favicon/hi-dhl.com.png/"
+      url: https://www.hi-dhl.com/
+      description: 下载放在maven库上的jar包到本地使用
+      
       
 - taxonomy: Blog平台汇总
   icon: far fa-star
