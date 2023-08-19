@@ -6,6 +6,41 @@
       logo: "https://api.iowen.cn/favicon/rssblog.cn.png/"
       url: https://rssblog.cn/
       description: 独立博客聚合, 提供最新的博客内容服务
+  links:
+    - title: 积薪
+      logo: "https://api.iowen.cn/favicon/firewood.news.png/"
+      url: https://firewood.news/
+      description: 致敬那些还在写博客的人
+  links:
+    - title: 川流
+      logo: "https://api.iowen.cn/favicon/chuanliu.org.png/"
+      url: https://chuanliu.org/
+      description: 川流代表着信息的流动和传播
+  links:
+    - title: 少数派
+      logo: "https://api.iowen.cn/favicon/sspai.com.png/"
+      url: https://sspai.com/
+      description: 高效工作，品质生活
+  links:
+    - title: 少数派
+      logo: "https://api.iowen.cn/favicon/rssblog.cn.png/"
+      url: https://rssblog.cn/
+      description: 高效工作，品质生活
+      
+      
+
+      
+      
+- taxonomy: 打字网站
+  icon: far fa-star
+  links:
+    - title: 打字狗
+      logo: "https://api.iowen.cn/favicon/dazigo.vip.png/"
+      url: https://dazigo.vip/
+      description: 在线打字就上打字狗
+
+
+      
 - taxonomy: 开源自建
   icon: far fa-star
   links:
