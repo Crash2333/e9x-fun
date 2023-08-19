@@ -21,11 +21,6 @@
       logo: "https://api.iowen.cn/favicon/sspai.com.png/"
       url: https://sspai.com/
       description: 高效工作，品质生活
-  links:
-    - title: 少数派
-      logo: "https://api.iowen.cn/favicon/rssblog.cn.png/"
-      url: https://rssblog.cn/
-      description: 高效工作，品质生活
 - taxonomy: 打字网站
   icon: far fa-star
   links:
