@@ -32,6 +32,26 @@
       url: https://www.hi-dhl.com/
       description: Android大佬
 
+    - title: GcsSloop
+      logo: "https://api.iowen.cn/favicon/gcssloop.com.png/"
+      url: http://www.gcssloop.com/#blog
+      description: Android大佬 
+
+    - title: 郭瀮
+      logo: "https://api.iowen.cn/favicon/blog.csdn.net.png/"
+      url: https://blog.csdn.net/guolin_blog
+      description: Android大佬 
+
+    - title: 鸿洋
+      logo: "https://api.iowen.cn/favicon/blog.csdn.net.png/"
+      url: https://blog.csdn.net/lmj623565791
+      description: Android大佬 
+
+
+
+
+
+
     - title: gradle下载
       logo: "https://api.iowen.cn/favicon/services.gradle.org.png/"
       url: https://services.gradle.org/distributions/
